@@ -3,9 +3,10 @@
 - 作者： [Martin Kleppmann](https://martin.kleppmann.com)
 - 原书名称：[《Designing Data-Intensive Application》](http://shop.oreilly.com/product/0636920032175.do)
 - 译者：[冯若航]( http://vonng.com/about) （fengruohang@outlook.com ）
-- Gitbook地址：[ddia-cn](https://www.gitbook.com/book/vonng/ddia-cn)
+- Gitbook地址：[ddia-cn](https://vonng.gitbooks.io/ddia-cn)
 - 使用[Typora](https://www.typora.io)或Gitbook以获取最佳阅读体验。
 
+* [繁體中文版本](zh-tw/README.md)
 
 
 
@@ -45,7 +46,7 @@
 
 ### [第一部分：数据系统的基石](part-i.md)
 
-* [第一章：可靠性、可扩展性、可维护性](ch1.md) 
+* [第一章：可靠性、可伸缩性、可维护性](ch1.md) 
 * [第二章：数据模型与查询语言](ch2.md)
 * [第三章：存储与检索](ch3.md) 
 * [第四章：编码与演化](ch4.md)
@@ -72,7 +73,7 @@
 
 ## 法律声明
 
-从原作者处得知，已经有简体中文的翻译计划，将于2018年末完成。
+从原作者处得知，已经有简体中文的翻译计划，将于2018年末完成。[购买地址](https://search.jd.com/Search?keyword=设计数据密集型应用)
 
 译者纯粹出于**学习目的**与**个人兴趣**翻译本书，不追求任何经济利益。
 
@@ -87,15 +88,22 @@
 1. [序言初翻修正](https://github.com/Vonng/ddia/commit/afb5edab55c62ed23474149f229677e3b42dfc2c) by [@seagullbird](https://github.com/Vonng/ddia/commits?author=seagullbird)
 2. [第一章语法标点校正](https://github.com/Vonng/ddia/commit/973b12cd8f8fcdf4852f1eb1649ddd9d187e3644) by [@nevertiree](https://github.com/Vonng/ddia/commits?author=nevertiree)
 3. [第六章部分校正](https://github.com/Vonng/ddia/commit/d4eb0852c0ec1e93c8aacc496c80b915bb1e6d48) 与[第10章的初翻](https://github.com/Vonng/ddia/commit/9de8dbd1bfe6fbb03b3bf6c1a1aa2291aed2490e) by @[MuAlex](https://github.com/Vonng/ddia/commits?author=MuAlex) 
-4. 第一部分前言，ch2校正 by @jiajiadebug
-5. 词汇表、后记关于野猪的部分 by @[Chowss](https://github.com/Vonng/ddia/commits?author=Chowss)
+4. [第一部分](part-i.md)前言，[ch2](ch2.md)校正 by @jiajiadebug
+5. [词汇表](glossary.md)、[后记]()关于野猪的部分 by @[Chowss](https://github.com/Vonng/ddia/commits?author=Chowss)
+6. [@afunTW](https://github.com/afunTW)贡献的[繁體中文](https://github.com/Vonng/ddia/pulls)版本
+7. 感谢所有作出贡献，提出意见的朋友们，限于篇幅不一一列出，参见：
+   * [Issues](https://github.com/Vonng/ddia/issues) 
+   * [Pull Requests](https://github.com/Vonng/ddia/pulls)
 
-https://github.com/Vonng/ddia/pulls)
 
-感谢所有作出贡献，提出意见的朋友们：[Issues](https://github.com/Vonng/ddia/issues)，[Pull Requests](https://github.com/Vonng/ddia/pulls)
+
+## Known Bugs
+
+* 第二章至第四章未进行系统的精翻，因此留有不少机翻痕迹，望读者见谅。
 
 
 
 ## LICENSE
 
-CC-BY 4.0
+[CC-BY 4.0](LICENSE)
+
